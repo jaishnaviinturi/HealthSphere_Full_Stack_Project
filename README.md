@@ -9,8 +9,7 @@ HealthSphere is a full-stack, AI-powered healthcare platform designed to connect
 ## 📸 Project Preview
 
 ### Landing Page
-![Landing Page](https://github.com/user-attachments/assets/42701bee-ffe9-46a4-9ebd-14a426170b0f)
-shot-placeholder)
+![Landing Page](https://github.com/user-attachments/assets/db0d8e51-463d-452c-a70c-a3bd89446c3b)
 *Modern, welcoming interface for HealthSphere users.*
 
 ### Login / Signup
