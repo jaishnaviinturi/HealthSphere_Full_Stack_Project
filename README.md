@@ -222,6 +222,5 @@ vercel
 This project was developed by:  
 - [I. Jaishnavi](https://github.com/jaishnaviinturi)  
 - [A. Abhijith Reddy](https://github.com/abhijithreddy05)  
-*Add additional contributors here if applicable.*
 
 ---
