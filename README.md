@@ -6,6 +6,13 @@ HealthSphere is a full-stack, AI-powered healthcare platform designed to connect
 
 ---
 
+## 🔗 Live Demo
+
+Explore HealthSphere in action:  
+👉 **[Live Link](https://health-sphere-frontend.vercel.app/)**
+
+---
+
 ## 📸 Project Preview
 
 ### Landing Page
@@ -96,13 +103,6 @@ By integrating advanced AI and modern web technologies, HealthSphere creates a *
 | **Backend**             | Node.js, Express, MongoDB, Mongoose, JWT, Multer, CORS, dotenv |
 | **AI & Automation**     | Python, Flask, Flask-CORS, TensorFlow/Keras, Google Gemini, HuggingFace, PyMuPDF, pytesseract, Twilio, threading, schedule |
 | **Deployment**          | Vercel (frontend), Render (backend and Flask services) |
-
----
-
-## 🔗 Live Demo
-
-Explore HealthSphere in action:  
-👉 **[Live Link](https://health-sphere-frontend.vercel.app/)**
 
 ---
 
