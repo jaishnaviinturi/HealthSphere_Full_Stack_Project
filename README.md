@@ -25,7 +25,7 @@ Explore HealthSphere in action:
 *Secure authentication for patients, doctors, and hospital admins.*
 
 ### 🩺 Patient Dashboard
-Manage appointments, medical records, pill reminders, and AI-driven health insights.
+Manage appointments, medical records, pill reminders, AI-driven health insights like disease prediction from X-rays, personalized fitness and nutrition plans, chatbot support, SOS emergency features, and insurance recommendations.
 ![Patient Dashboard](https://github.com/user-attachments/assets/e79aaebf-e0fe-40a2-9ec9-8090ab5247c3)
 ![Patient Features](https://github.com/user-attachments/assets/a19d2c40-529a-47e6-92f9-e7f245f33c68)
 ![Patient Features](https://github.com/user-attachments/assets/d74d74d5-4a24-4011-8364-467de4f67227)
