@@ -30,19 +30,16 @@ Manage appointments, medical records, pill reminders, AI-driven health insights 
 ![Patient Features](https://github.com/user-attachments/assets/a19d2c40-529a-47e6-92f9-e7f245f33c68)
 ![Patient Features](https://github.com/user-attachments/assets/d74d74d5-4a24-4011-8364-467de4f67227)
 
+### 🏥 Hospital Dashboard
+Oversee Staff, Medical Stock, Bed management, and handle appointments.
+![Hospital Dashboard](https://github.com/user-attachments/assets/259b90f8-6acd-494e-8c46-1fa2843dce1d)
 
 ### 🩼 Doctor Dashboard
-Handle appointments, patient records, and e-prescriptions with ease.
-![Doctor Dashboard](https://github.com/user-attachments/assets/259b90f8-6acd-494e-8c46-1fa2843dce1d)
-
-
-### 🏥 Hospital Dashboard
-Oversee staff, appointments, bed management, and hospital analytics.
-![Hospital Dashboard](https://github.com/user-attachments/assets/3eb2c658-2489-43e1-ada3-a051e5ab654c)
-
+View appointments, patient records, disease prediction from X-rays and generate e-prescriptions with ease.
+![Doctor Dashboard](https://github.com/user-attachments/assets/3eb2c658-2489-43e1-ada3-a051e5ab654c)
 
 ### ✨ Key Features
-Explore AI-powered tools like X-ray analysis, symptom prediction, and personalized fitness plans.
+Explore AI-powered tools like X-ray analysis, symptom prediction, mood based chatbot and personalized fitness plans.
 ![X-Ray Analysis](https://github.com/user-attachments/assets/8e523bdc-a528-4603-846d-79e6a02e9b23)
 ![Syptom Based Disease Prediction](https://github.com/user-attachments/assets/433e5f79-b462-406a-8b5a-ef08873206f0)
 ![Chatbot](https://github.com/user-attachments/assets/6fdedd02-4570-46d8-9a31-3181d5ab6278)
@@ -54,31 +51,28 @@ Explore AI-powered tools like X-ray analysis, symptom prediction, and personaliz
 
 ### Patient Portal
 - 📅 **Appointment Booking**: Schedule and manage appointments with doctors.
-- 📋 **Medical Records**: Securely access and view medical history and reports.
+- 📋 **Patient Medical Records**: Securely access and view medical history and reports.
 - 🩻 **AI Disease Prediction**: Analyze X-rays, eye, and brain images for disease detection using TensorFlow/Keras.
+- 🤒 **Symptom-Based Diagnosis**: Input symptoms to receive AI-driven disease prediction
+- 📄 **Medical Report Analysis**: Upload and analyze medical reports (PDFs/images) with AI insights using PyMuPDF, pytesseract, and Google Gemini.
 - ⏰ **Pill Reminders**: Set up medication schedules with SMS notifications via Twilio.
 - 🥗 **Fitness & Nutrition Plans**: Generate personalized diet and workout plans using Google Gemini.
 - 💬 **Chatbot & Mood Detection**: Get conversational support and mood-based YouTube video suggestions via HuggingFace.
 - 🆘 **SOS Emergency**: Quick access to emergency services.
 - 🛡️ **Insurance Recommendations**: AI-driven suggestions for health insurance plans.
-- - 🔒 **Secure Access**: Only patients can log in. Hospitals onboard doctors to ensure only authorized personnel have access.
+- 🔒 **Secure Access**: Only patients can log in. Hospitals onboard doctors to ensure only authorized personnel have access.
 
 ### Doctor Portal
 - 📆 **Appointment Management**: View and manage patient appointments.
 - 📝 **Patient Records**: Access and update medical records securely.
 - 💊 **E-Prescriptions**: Generate and send electronic prescriptions.
+- 🩻 **AI Disease Prediction**: Analyze X-rays, eye, and brain images for disease detection using TensorFlow/Keras.
 
 ### Hospital Portal
 - 👩‍⚕️ **Staff Management**: Manage doctors and hospital staff.
 - 🏨 **Bed & Stock Management**: Track hospital beds and inventory.
 - 📊 **Analytics Dashboard**: Monitor hospital operations and performance metrics.
 - 📅 **Appointment Approval**: Review, approve, or reject patient appointments.
-
-### AI & Automation Services
-- 📄 **Medical Report Analysis**: Extract and analyze text from PDFs/images using PyMuPDF, pytesseract, and Google Gemini.
-- 🤖 **Chatbot**: Provides health query support and emotional assistance.
-- 🩺 **Disease Prediction**: Deep learning models for X-ray, eye, and brain diagnostics.
-- 📲 **Pill Reminder Service**: Automated SMS reminders for medication adherence.
 
 ---
 
