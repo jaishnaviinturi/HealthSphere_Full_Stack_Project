@@ -4,14 +4,13 @@ HealthSphere is a full-stack, AI-powered healthcare platform designed to connect
 
 > 🚀 A comprehensive solution for healthcare management, integrating cutting-edge AI with user-friendly interfaces.
 
----
+
 
 ## 🔗 Live Demo
 
 Explore HealthSphere in action:  
 👉 **[Live Link](https://health-sphere-frontend.vercel.app/)**
 
----
 
 ## 📸 Project Preview
 
