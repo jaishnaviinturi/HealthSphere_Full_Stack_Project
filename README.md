@@ -72,6 +72,7 @@ Explore AI-powered tools like X-ray analysis, symptom prediction, and personaliz
 - 👩‍⚕️ **Staff Management**: Manage doctors and hospital staff.
 - 🏨 **Bed & Stock Management**: Track hospital beds and inventory.
 - 📊 **Analytics Dashboard**: Monitor hospital operations and performance metrics.
+- 📅 **Appointment Approval**: Review, approve, or reject patient appointments.
 
 ### AI & Automation Services
 - 📄 **Medical Report Analysis**: Extract and analyze text from PDFs/images using PyMuPDF, pytesseract, and Google Gemini.
@@ -221,6 +222,7 @@ vercel
 
 This project was developed by:  
 - [I. Jaishnavi](https://github.com/jaishnaviinturi)  
-- [A. Abhijith Reddy](https://github.com/abhijithreddy05)  
-
+- [A. Abhijith Reddy](https://github.com/abhijithreddy05)
+- [K. Supragna](https://github.com/supragna-2705)
+- [G. Rajavenkat Reddy](https://github.com/Raja-venkat-reddy)
 ---
