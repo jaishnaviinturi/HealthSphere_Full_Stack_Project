@@ -1,0 +1,24 @@
+# Node.js (applies to both Backend/ and Frontend/)
+Backend/node_modules/
+Frontend/node_modules/
+Backend/dist/
+
+# React (Frontend/)
+Frontend/build/
+Frontend/.env
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+
+# Python/Flask (Flask/)
+Flask/venv/
+Flask/__pycache__/
+Flask/*.pyc
+Flask/scripts/models/*.h5
+
+# Shared across folders
+.env
+.DS_Store
+uploads/
+doctor_images/

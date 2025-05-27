@@ -1,7 +1,0 @@
-node_modules/
-venv/
-.env
-__pycache__/
-uploads/
-scripts/models/*.h5
-*.pyc
