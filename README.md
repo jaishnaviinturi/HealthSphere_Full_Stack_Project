@@ -2,7 +2,7 @@
 
 HealthSphere is a full-stack, AI-powered healthcare platform designed to connect *patients*, *doctors*, and *hospitals* in a seamless digital ecosystem. Built with modern web technologies and modular microservices, it provides a secure, role-based experience with advanced AI-driven features like disease prediction, medical report analysis, and personalized health recommendations.
 
-> 🚀 A comprehensive solution for healthcare management, integrating cutting-edge AI with user-friendly interfaces.
+> 🚀 A comprehensive solution for healthcare management , integrating cutting-edge AI with user-friendly interfaces.
 
 
 
